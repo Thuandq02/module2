@@ -8,18 +8,18 @@
     <title>Document</title>
 </head>
 <body>
-<h1>Máy tính siêu đơn giản</h1>
+<h1>Máy tính</h1>
 <form method="post" style="border: 1px; width: 300px; height: 100px">
     <input type="text" name="number1">
     <input type="text" name="number2">
     <br/>
     <select name="tinh">
-        <option value="cong">Cong</option>
-        <option value="tru">Tru</option>
-        <option value="nhan">Nhan</option>
-        <option value="chia">Chia</option>
+        <option value="cong">+</option>
+        <option value="tru">-</option>
+        <option value="nhan">*</option>
+        <option value="chia">/</option>
     </select>
-    <input type="submit" value="submit">
+    <input type="submit" value="send">
 </form>
 <?php
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
