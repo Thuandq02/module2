@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="09e708be-9e94-4609-9b4f-40d6e227655d" name="Default Changelist" comment="" />
+    <list default="true" id="09e708be-9e94-4609-9b4f-40d6e227655d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/btAthao/kethua/Grandfather.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/btAthao/kethua/child.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/btAthao/kethua/father.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btAthao/kethua.php" beforeDir="false" afterPath="$PROJECT_DIR$/btAthao/kethua/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +34,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1jp0mC4Sznlx1reZCPpVpLfnWRr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,11 +62,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/btAthao/kethua" />
       <recent name="$PROJECT_DIR$/kethua" />
       <recent name="$PROJECT_DIR$/kethua/Shape" />
       <recent name="$PROJECT_DIR$/oop" />
       <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/bt" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -74,11 +96,23 @@
       <workItem from="1604969905461" duration="7686000" />
       <workItem from="1605020746967" duration="1682000" />
       <workItem from="1605056988791" duration="8455000" />
+      <workItem from="1605084444978" duration="2847000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="163" y="235" width="732" height="644" key="#Inspections" timestamp="1605080299924">
@@ -93,14 +127,14 @@
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
     <state x="317" y="311" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1604933075271" />
-    <state x="326" y="273" width="441" height="568" key="NewPhpClassDialog" timestamp="1605080226255">
+    <state x="326" y="273" width="441" height="568" key="NewPhpClassDialog" timestamp="1605085191556">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="326" y="273" width="441" height="568" key="NewPhpClassDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1605080226255" />
-    <state x="791" y="479" width="399" height="156" key="NewPhpFileDialog" timestamp="1605080008446">
+    <state x="326" y="273" width="441" height="568" key="NewPhpClassDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1605085191556" />
+    <state x="791" y="479" width="399" height="156" key="NewPhpFileDialog" timestamp="1605087838654">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
-    <state x="791" y="479" width="399" height="156" key="NewPhpFileDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1605080008446" />
+    <state x="791" y="479" width="399" height="156" key="NewPhpFileDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1605087838654" />
     <state x="485" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1604485972376">
       <screen x="72" y="27" width="1848" height="1053" />
     </state>
