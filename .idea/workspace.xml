@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="09e708be-9e94-4609-9b4f-40d6e227655d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="tsconfig.json" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jp0mC4Sznlx1reZCPpVpLfnWRr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web.server" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/kethua" />
+      <recent name="$PROJECT_DIR$/kethua/Shape" />
+      <recent name="$PROJECT_DIR$/oop" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/bt" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="09e708be-9e94-4609-9b4f-40d6e227655d" name="Default Changelist" comment="" />
+      <created>1604485882558</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604485882558</updated>
+      <workItem from="1604485883598" duration="193000" />
+      <workItem from="1604501415636" duration="897000" />
+      <workItem from="1604505525303" duration="2198000" />
+      <workItem from="1604507739399" duration="5149000" />
+      <workItem from="1604541056513" duration="3285000" />
+      <workItem from="1604544541067" duration="5990000" />
+      <workItem from="1604552268992" duration="96000" />
+      <workItem from="1604558134798" duration="7080000" />
+      <workItem from="1604570680434" duration="678000" />
+      <workItem from="1604624873270" duration="19162000" />
+      <workItem from="1604656578452" duration="229000" />
+      <workItem from="1604714762721" duration="5026000" />
+      <workItem from="1604728491274" duration="5561000" />
+      <workItem from="1604885627521" duration="8528000" />
+      <workItem from="1604905234914" duration="1884000" />
+      <workItem from="1604931682398" duration="4455000" />
+      <workItem from="1604969905461" duration="7686000" />
+      <workItem from="1605020746967" duration="1682000" />
+      <workItem from="1605056988791" duration="8275000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="163" y="235" width="732" height="644" key="#Inspections" timestamp="1605080299924">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="163" y="235" width="732" height="644" key="#Inspections/72.27.1848.1053@72.27.1848.1053" timestamp="1605080299924" />
+    <state x="349" y="376" width="351" height="370" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1605004894461">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="349" y="376" width="351" height="370" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1605004894461" />
+    <state x="317" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1604933075271">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="317" y="311" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.1053@72.27.1848.1053" timestamp="1604933075271" />
+    <state x="326" y="273" width="441" height="568" key="NewPhpClassDialog" timestamp="1605080226255">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="326" y="273" width="441" height="568" key="NewPhpClassDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1605080226255" />
+    <state x="791" y="479" width="399" height="156" key="NewPhpFileDialog" timestamp="1605080008446">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="791" y="479" width="399" height="156" key="NewPhpFileDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1605080008446" />
+    <state x="485" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1604485972376">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="485" y="188" width="1022" height="737" key="SettingsEditor/72.27.1848.1053@72.27.1848.1053" timestamp="1604485972376" />
+    <state x="366" y="314" width="325" height="485" key="refactoring.ChangeSignatureDialog" timestamp="1605080322973">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="366" y="314" width="325" height="485" key="refactoring.ChangeSignatureDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1605080322973" />
+    <state x="721" y="467" width="540" height="179" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1604933053334">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="721" y="467" width="540" height="179" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/72.27.1848.1053@72.27.1848.1053" timestamp="1604933053334" />
+  </component>
+</project>
